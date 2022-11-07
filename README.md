@@ -2,7 +2,7 @@
 
 ## Overview
 
-By using data visualization (hvplot), I will explore the San Francisco housing market to find out if properties in the San Francisco market are viable investment opportunities.
+In this project, I will explore the San Francisco housing market using hvplot to find out if properties in the San Francisco market are viable investment opportunities.
 
 ## Results
 
